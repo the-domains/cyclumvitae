@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: A Cyclumvitae é uma jovem empresa criada em 2012 e localizada na região Oeste.
-datePublished: '2016-02-13T19:28:51.676Z'
-dateModified: '2016-02-13T19:28:34.897Z'
+datePublished: '2016-02-13T19:34:59.657Z'
+dateModified: '2016-02-13T19:34:56.806Z'
 title: Quem somos
 author: []
 sourcePath: _posts/2016-02-13-quem-somos.md
@@ -22,7 +22,7 @@ url: quem-somos/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c732d20c-4088-458d-930e-42c05b93de8e.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a60482d-5611-4cfc-86bb-073a489571ed.jpg)
 
 A Cyclumvitae é uma jovem empresa criada em 2012 e localizada na região Oeste.
 
