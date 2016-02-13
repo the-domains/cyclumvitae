@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-13T19:18:06.561Z'
-dateModified: '2016-02-13T19:17:45.978Z'
-title: Cogumelos
+datePublished: '2016-02-13T19:36:04.568Z'
+dateModified: '2016-02-13T19:36:02.163Z'
+title: COGUMELOS
 author: []
+sourcePath: _posts/2016-02-13-cogumelos.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-13-cogumelos.md
-published: true
 url: cogumelos/index.html
 _type: Article
 
