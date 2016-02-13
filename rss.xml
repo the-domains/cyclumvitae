@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Cyclumvitae]]></title>
         <description><![CDATA[Cyclumvitae]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.cyclumvitae.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 17:38:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Feb 2016 18:05:08 GMT</lastBuildDate>
+        <atom:link href="http://www.cyclumvitae.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Quem somos]]></title>
-            <description><![CDATA[<article><h1>Quem somos</h1><p>A Cyclumvitae é uma jovem empresa criada em 2012 e localizada na região Oeste.</p></article>]]></description>
-            <link>undefinedquem-somos/index.html</link>
+            <description><![CDATA[<article><h1>Quem somos</h1><p>A Cyclumvitae é uma jovem empresa criada em 2012 e localizada na região Oeste.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c732d20c-4088-458d-930e-42c05b93de8e.png"></article>]]></description>
+            <link>http://www.cyclumvitae.com/quem-somos/index.html</link>
             <guid isPermaLink="false">acb5c654-7da7-485e-9c77-ae010b65a352</guid>
-            <pubDate>Sat, 13 Feb 2016 17:38:05 GMT</pubDate>
+            <pubDate>Sat, 13 Feb 2016 18:04:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
