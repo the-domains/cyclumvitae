@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: A Cyclumvitae é uma jovem empresa criada em 2012 e localizada na região Oeste.
-datePublished: '2016-02-14T14:51:20.872Z'
-dateModified: '2016-02-14T14:51:07.935Z'
+datePublished: '2016-02-18T14:22:22.513Z'
+dateModified: '2016-02-18T14:20:12.050Z'
 title: Quem somos
 author: []
 sourcePath: _posts/2016-02-13-quem-somos.md
@@ -22,7 +22,7 @@ url: quem-somos/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e7a1d8a-e023-4dd9-b1bc-6b3a95da6006.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e233f40-b386-4af1-80b7-85034f8025fa.png)
 
 A Cyclumvitae é uma jovem empresa criada em 2012 e localizada na região Oeste.
 
@@ -30,14 +30,14 @@ O projecto começou pelo fascínio de uma equipa de biólogos por cogumelos e pe
 
 Desta maneira a nossa actividade está dividida entre o laboratório, onde trabalhamos com o micélio de cogumelos desenvolvendo spawn em cavilhas para o seu cultivo, e o pomar, onde apostamos na permacultura e no modo de produção biológico.
 
-MISSÃO
+## MISSÃO
 
 O nosso compromisso é criar um sistema alternativo e auto-suficiente de produção de alimentos biológicos integrado na natureza, que proporcione não só saude e bem estar às pessoas mas também que suscite interesse e curiosidade por querer fazer diferente.
 
-VISSÃO
+## VISSÃO
 
 Assumir uma posição relevante e de referência no mercado nacional com ética e princípios, transmitindo qualidade e confiança ao consumidor.
 
-VALORES
+## VALORES
 
 Confiança, integridade, auto-suficiência, união, respeito, aprendizagem e responsabilidade socioambiental.
