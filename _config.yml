@@ -1,7 +1,7 @@
 name: Cyclumvitae
 favicon: null
 layout_spectrum: 0.10799
-typography_spectrum: 0.11521
+typography_spectrum: 0.87931
 title: Cyclumvitae
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#6bb5c0'
-    - '#fafcef'
-    - '#498a50'
-    - '#225127'
-    - '#f06e22'
+    - '#030303'
+    - '#2c3a21'
+    - '#fef5ec'
+    - '#717366'
+    - '#a9a9a7'
   brandStrength: 0
-  lightness: 0.5625
-  saturation: 1
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0
 purpose: []
