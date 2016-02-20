@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Desde o micélio ao cogumelo feitos por nós em modo biológico.
-datePublished: '2016-02-20T20:52:15.859Z'
-dateModified: '2016-02-20T20:52:15.290Z'
+datePublished: '2016-02-20T21:17:10.300Z'
+dateModified: '2016-02-20T21:13:24.046Z'
 title: COGUMELOS
 author: []
 sourcePath: _posts/2016-02-13-cogumelos.md
@@ -22,6 +22,7 @@ url: cogumelos/index.html
 _type: Article
 
 ---
+## COGUMELOS
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12fac9a1-f9ad-41ed-acac-5935f5a897d9.jpg)
 
 Somos entusiastas pelos cogumelos, queremos-los de todos os tipos e por todo o lado: em placas petri no laboratório; em estufas de produção; em troncos de madeira ao ar livre; em consociação com o pomar e com os legumes na horta; em sistemas de depuração de água; na remediação de solos e também no nosso paladar e na nossa saúde.
