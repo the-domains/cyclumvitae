@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T19:11:02.872Z'
-dateModified: '2016-02-20T19:09:13.661Z'
+datePublished: '2016-02-20T19:16:55.186Z'
+dateModified: '2016-02-20T19:16:48.263Z'
 title: COGUMELOS
 author: []
 sourcePath: _posts/2016-02-13-cogumelos.md
@@ -22,8 +22,7 @@ url: cogumelos/index.html
 _type: Article
 
 ---
-## COGUMELOS
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba435703-7cf7-41bc-9030-18402f5197bd.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12fac9a1-f9ad-41ed-acac-5935f5a897d9.jpg)
 
 Somos entusiastas pelos cogumelos, queremos-los de todos os tipos e por todo o lado: em placas petri no laboratório; em estufas de produção; em troncos de madeira ao ar livre; em consociação com o pomar e com os legumes na horta; em sistemas de depuração de água; na remediação de solos e também no nosso paladar e na nossa saúde.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/359610f46f7e0fed51fb7c6fb9f1deb9bf2883a2.jpg)
