@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: A Cyclumvitae é uma jovem empresa criada em 2012 e localizada na região Oeste.
-datePublished: '2016-02-18T14:24:22.357Z'
-dateModified: '2016-02-18T14:24:09.237Z'
+datePublished: '2016-02-20T20:21:59.446Z'
+dateModified: '2016-02-20T20:21:58.868Z'
 title: QUEM SOMOS
 author: []
 sourcePath: _posts/2016-02-13-quem-somos.md
@@ -23,7 +23,6 @@ _type: Article
 
 ---
 # QUEM SOMOS
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e233f40-b386-4af1-80b7-85034f8025fa.png)
 
 A Cyclumvitae é uma jovem empresa criada em 2012 e localizada na região Oeste.
 
@@ -35,7 +34,7 @@ Desta maneira a nossa actividade está dividida entre o laboratório, onde traba
 
 O nosso compromisso é criar um sistema alternativo e auto-suficiente de produção de alimentos biológicos integrado na natureza, que proporcione não só saude e bem estar às pessoas mas também que suscite interesse e curiosidade por querer fazer diferente.
 
-## VISSÃO
+## VISÃO
 
 Assumir uma posição relevante e de referência no mercado nacional com ética e princípios, transmitindo qualidade e confiança ao consumidor.
 
