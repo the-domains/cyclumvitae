@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T21:28:09.209Z'
-dateModified: '2016-02-20T21:00:53.498Z'
+datePublished: '2016-02-20T21:54:11.822Z'
+dateModified: '2016-02-20T21:44:19.037Z'
 title: CONTACTA-NOS
 author: []
 sourcePath: _posts/2016-02-18-contacta-nos.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: contacta-nos/index.html
-_type: Article
+_type: WebPage
 
 ---
 # CONTACTA-NOS
