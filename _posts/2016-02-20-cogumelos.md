@@ -1,0 +1,31 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-02-20T22:05:09.910Z'
+dateModified: '2016-02-20T22:04:37.785Z'
+title: COGUMELOS
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-02-20-cogumelos.md
+published: true
+url: cogumelos/index.html
+_type: Article
+
+---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3c08070-76e7-4b33-9f37-a05262022f9f.jpg)
+
+Somos entusiastas pelos cogumelos, queremos-los de todos os tipos e por todo o lado: em placas petri no laboratório; em estufas de produção; em troncos de madeira ao ar livre; em consociação com o pomar e com os legumes na horta; em sistemas de depuração de água; na remediação de solos e também no nosso paladar e na nossa saúde.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64def1cf-0c59-4238-9564-4751b87009ae.jpg)
+
+Dedicamos a nossa actividade à produção de cogumelos e à produção da sua semente. Investigar, inovar, desenvolver, produzir e partilhar são a base da nossa motivação, pelo que o laboratório é uma peça chave para desenvolvermos a paixão pelos cogumelos e o ponto de partida que nos permite descobrir e demonstrar a importância e o potencial único destes seres vivos. É através dele que fornecemos aos nossos clientes a possibilidade de produzirem eles próprios cogumelos, quer seja para autoconsumo ou de um ponto de vista comercial, oferecendo preços muito competitivos e a confiança necessária num produto final de qualidade.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/993ac044-95bb-45d6-9ed3-3c3346a4765a.jpg)
