@@ -1,6 +1,6 @@
 name: Cyclumvitae
 favicon: null
-layout_spectrum: 0.83575
+layout_spectrum: 0.75953
 typography_spectrum: 0.87931
 title: Cyclumvitae
 cta:
@@ -23,7 +23,7 @@ color:
     - '#717366'
     - '#a9a9a7'
   brandStrength: 0
-  lightness: 0.4375
+  lightness: 0.5
   saturation: 0.375
   rhythmicContrast: 0
 purpose: []
