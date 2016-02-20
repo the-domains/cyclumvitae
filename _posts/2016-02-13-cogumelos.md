@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Desde o micélio ao cogumelo feitos por nós em modo biológico.
-datePublished: '2016-02-20T20:13:28.773Z'
-dateModified: '2016-02-20T20:12:53.838Z'
+datePublished: '2016-02-20T20:12:47.409Z'
+dateModified: '2016-02-20T20:06:37.810Z'
 title: COGUMELOS
 author: []
 sourcePath: _posts/2016-02-13-cogumelos.md
