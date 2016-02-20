@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-20T22:05:09.910Z'
-dateModified: '2016-02-20T22:04:37.785Z'
+datePublished: '2016-02-20T22:14:15.358Z'
+dateModified: '2016-02-20T22:13:27.197Z'
 title: COGUMELOS
 author: []
+sourcePath: _posts/2016-02-20-cogumelos.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-20-cogumelos.md
-published: true
 url: cogumelos/index.html
 _type: Article
 
