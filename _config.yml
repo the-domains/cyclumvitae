@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: COGUMELOS
-    id: 86439c04-9d18-48f8-ae08-9c439bc11cf3
-    type: content
 favicon: null
 title: Cyclumvitae
 purpose: []
