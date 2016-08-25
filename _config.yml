@@ -1,4 +1,3 @@
-layout_spectrum: 0.018158610677346587
 typography_spectrum: 0.6614372923504561
 color:
   brandColors:
@@ -11,19 +10,24 @@ color:
   lightness: 0.3286626075860113
   saturation: 0.848486119415611
   rhythmicContrast: 0.18885910115204751
-name: Cyclumvitae
-favicon: null
-title: Cyclumvitae
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.018158610677346587
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Cyclumvitae
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: COGUMELOS
+    id: 86439c04-9d18-48f8-ae08-9c439bc11cf3
+    type: content
+favicon: null
+title: Cyclumvitae
 purpose: []
