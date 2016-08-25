@@ -1,18 +1,14 @@
 ---
-datePublished: '2016-08-25T18:28:30.918Z'
+datePublished: '2016-08-25T18:51:35.196Z'
 sourcePath: _posts/2016-02-20-cogumelos.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-25T18:28:30.360Z'
+dateModified: '2016-08-25T18:51:34.587Z'
 title: COGUMELOS
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 description: >-
   Somos entusiastas pelos cogumelos, queremos-los de todos os tipos e por todo o
   lado: em placas petri no laboratório; em estufas de produção; em troncos de
